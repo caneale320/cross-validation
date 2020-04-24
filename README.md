@@ -1,4 +1,4 @@
-## This repo hosts the code for some Medium articles I've written. 
+## This repo hosts the code for some Medium articles I've written
 
 # cross-validation
 The article can be found at https://towardsdatascience.com/cross-validation-a-beginners-guide-5b8ca04962cd
